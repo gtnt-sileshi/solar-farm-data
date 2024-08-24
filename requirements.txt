@@ -1,15 +1,8 @@
-●	Create a github repository that you will be using to host all the code for this week.
-●	Create at least one new branch called ”task-1” for your analysis of day 1
-●	Commit your work at least three times a day with a descriptive commit message
-●	Perform Exploratory Data Analysis (EDA) analysis on the following:
-○	Summary Statistics: Calculate the mean, median, standard deviation, and other statistical measures for each numeric column to understand data distribution.
-○	Data Quality Check: Look for missing values, outliers, or incorrect entries (e.g., negative values where only positive should exist), especially in columns like GHI, DNI, and DHI and check for outliers, especially in sensor readings (ModA, ModB) and wind speed data (WS, WSgust).
-○	Time Series Analysis: Plot line graphs or area plots of GHI, DNI, DHI, and Tamb over time to observe patterns by month, trends throughout day, or anomalies, such as peaks in solar irradiance or temperature fluctuations. 
-○	 Evaluate the impact of cleaning (using the 'Cleaning' column) on the sensor readings (ModA, ModB) over time.
-○	Correlation Analysis: Use heatmaps or pair plots to visualize the correlations between solar radiation components (GHI, DNI, DHI) and temperature measures (TModA, TModB). Investigate the relationship between wind conditions (WS, WSgust, WD) and solar irradiance using scatter matrices.
-○	Wind Analysis: Use Polar plots Identify trends and significant wind events by showing the distribution of wind speed and direction, along with how variable the wind direction tends to be.
-○	Temperature Analysis: Examine how relative humidity (RH) might influence temperature readings and solar radiation.
-○	Histograms: Create histograms for variables like GHI, DNI, DHI, WS, and temperatures to visualize the frequency distribution of these variables.
-○	Z-Score Analysis: Calculate Z-scores to flag data points that are significantly different from the mean
-○	Bubble charts to explore complex relationships between variables, such as GHI vs. Tamb vs. WS, with bubble size representing an additional variable like RH or BP (Barometric Pressure)
-○	Data Cleaning: Based on the initial analysis, clean the dataset by handling anomalies and missing values, especially in columns like Comments which appear entirely null.
+streamlit==1.24.0
+pandas==2.0.3
+plotly==5.8.0
+matplotlib==3.7.1
+seaborn==0.12.2
+numpy==1.25.0
+pdfplumber==0.8.0
+scipy==1.11.2
