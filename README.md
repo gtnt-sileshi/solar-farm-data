@@ -25,11 +25,13 @@ The aim is to understand, explore, and analyze the solar farm data to generate m
 ## Getting Started
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/gtnt-sileshi/solar-farm-data-analysis.git
    ```
 
 2. **Navigate to the Project Directory**:
+
    ```bash
    cd solar-farm-data-analysis
    ```
@@ -46,14 +48,13 @@ The aim is to understand, explore, and analyze the solar farm data to generate m
 ## File Structure
 
 - `data/` - Contains raw and processed datasets.
-- `notebooks/` - Jupyter notebooks for analysis and model development.
+- `src/notebooks` - Jupyter notebooks for analysis and model development.
 - `scripts/` - Python scripts for data processing and analysis.
 - `reports/` - Reports and visualizations.
 - `README.md` - This file.
 
 ## Contact
 
-For any questions or further assistance, feel free to reach out to me at [gtntsileshi@gmail.com](mailto:gtntsileshi@gmail.com).
----
+## For any questions or further assistance, feel free to reach out to me at [gtntsileshi@gmail.com](mailto:gtntsileshi@gmail.com).
 
 Feel free to tweak it as needed!
