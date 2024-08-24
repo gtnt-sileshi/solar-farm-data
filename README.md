@@ -60,6 +60,9 @@ The aim is to understand, explore, and analyze the solar farm data to generate m
  ![without streamlit](https://github.com/gtnt-sileshi/solar-farm-data-analysis/blob/dashboard-dev/src/without-streamlit-image/Figure_2.png?raw=true
 )
 
+## Streamlit Dashboard
+ ![without streamlit](https://github.com/gtnt-sileshi/solar-farm-data-analysis/blob/dashboard-dev/src/streamlit-image/streamlit-dashboard.png?raw=true)
+
 ## Contact
 
 ## For any questions or further assistance, feel free to reach out to me at [gtntsileshi@gmail.com](mailto:gtntsileshi@gmail.com).
