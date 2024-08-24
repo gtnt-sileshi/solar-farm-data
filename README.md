@@ -51,15 +51,6 @@ The aim is to understand, explore, and analyze the solar farm data to generate m
 - `reports/` - Reports and visualizations.
 - `README.md` - This file.
 
-## Evaluation Criteria
-
-Submissions will be evaluated on:
-
-- **Data Exploration**: Thoroughness and insightfulness of data exploration.
-- **Analytical Methods**: Appropriateness and effectiveness of analysis techniques.
-- **Machine Learning Models**: Quality and performance of machine learning models.
-- **Presentation**: Clarity and quality of reports and visualizations.
-
 ## Contact
 
 For any questions or further assistance, feel free to reach out to me at [gtntsileshi@gmail.com](mailto:gtntsileshi@gmail.com).
