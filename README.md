@@ -26,7 +26,7 @@ The aim is to understand, explore, and analyze the solar farm data to generate m
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/solar-farm-data-analysis.git
+   git clone https://github.com/gtnt-sileshi/solar-farm-data-analysis.git
    ```
 
 2. **Navigate to the Project Directory**:
